@@ -8,8 +8,3 @@
 	url = https://github.com/markziemann/getdee2
 	shallow = true
 	registered = true
-[submodule "mitch"]
-	path = mitch
-	url = https://github.com/markziemann/mitch
-	shallow = true
-	registered = true
